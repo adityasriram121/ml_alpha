@@ -1,0 +1,29 @@
+# === Core Data Science Stack ===
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+statsmodels
+plotly
+ipywidgets
+
+# === Deep Learning & Orchestration ===
+# NOTE: To utilize your Zephyrus G14 RTX GPU, install PyTorch explicitly using:
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+torch
+torchvision
+torchaudio
+tqdm
+
+# === Dev & Notebook environments ===
+jupyterlab
+notebook
+ipykernel
+requests
+beautifulsoup4
+mlflow
+pytest
+black
+ruff
